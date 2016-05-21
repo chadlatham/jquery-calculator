@@ -1,7 +1,7 @@
 (function() { // IIFE to protect global scope
   'use strict';
 // Event Handlers, Functions, and App Scope Variables **************************
-
+// Watch this!
 
 // App Scope Variables *********************
 var $buttons = $('.buttons');
